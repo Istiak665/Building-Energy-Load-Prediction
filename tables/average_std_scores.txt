@@ -1,0 +1,47 @@
+Heating Load Cross-Validation Scores (Avg and Std):
+fit_time      0.079162
+score_time    0.003701
+test_MAE      0.664526
+train_MAE     0.053769
+test_RMSE     0.881368
+train_RMSE    0.077518
+test_MAPE     4.534199
+train_MAPE    0.271833
+test_R2       0.968914
+train_R2      0.999941
+dtype: float64
+fit_time      0.004218
+score_time    0.000482
+test_MAE      1.190295
+train_MAE     0.002931
+test_RMSE     1.501862
+train_RMSE    0.003276
+test_MAPE     9.715305
+train_MAPE    0.015656
+test_R2       0.092461
+train_R2      0.000005
+dtype: float64
+
+Cooling Load Cross-Validation Scores (Avg and Std):
+fit_time      0.081013
+score_time    0.003551
+test_MAE      0.690026
+train_MAE     0.103027
+test_RMSE     0.893710
+train_RMSE    0.145793
+test_MAPE     3.166651
+train_MAPE    0.454252
+test_R2       0.985746
+train_R2      0.999764
+dtype: float64
+fit_time      0.003542
+score_time    0.000497
+test_MAE      0.555177
+train_MAE     0.004946
+test_RMSE     0.660693
+train_RMSE    0.006440
+test_MAPE     3.038289
+train_MAPE    0.019164
+test_R2       0.026684
+train_R2      0.000021
+dtype: float64
